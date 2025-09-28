@@ -1,1 +1,1 @@
-Please create issues for the NexMin here .
+Please create issues for the NexMin here.
